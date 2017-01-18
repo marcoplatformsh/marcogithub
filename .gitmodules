@@ -1,0 +1,3 @@
+[submodule "marcogithubnested"]
+	path = marcogithubnested
+	url = https://github.com/marcoplatformsh/marcogithubnested.git
